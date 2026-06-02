@@ -7,3 +7,4 @@
 * Interface (I mean, there's a reutilization of the same struct as different types. First a base, then the specialization);
 * CSV parsing (made my own way cuz others are too complex.);
 * Read input properly (seriously, it's 2026 and people still can't agree on how to properly read from the damn console on C);
+* Generify an "object" using void functions pointers so you can just bend it to your own weird struct (in this case a List);
